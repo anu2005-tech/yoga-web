@@ -1,0 +1,84 @@
+.background-home {
+    background-image: url("image/yoga-bg-png");
+    background-size: cover;
+    padding: 20px;
+    text-align: center;
+    height: 100vh;
+}
+
+.main-heading-home {
+    color: #253263;
+    font-size: 22px;
+    font-family: "Roboto";
+    margin-bottom: 150px;
+    font-weight: bold;
+}
+
+.image-home {
+    width: 200px;
+    height: 225px;
+    margin-bottom: 26px;
+}
+
+.para-home {
+    color: #323f4b;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.button {
+    background-color: #132d84;
+    color: #fad693;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 12px;
+    border-width: 0px;
+}
+
+.types-background {
+    background-color: #ffedcb;
+    padding: 10px;
+    text-align: center;
+}
+
+.types-image {
+    width: 220px;
+    height: 210px;
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+
+.types-card {
+    border-radius: 10px;
+    background-color: #ffe2ab;
+    padding: 10px;
+    margin: 15px;
+    text-align: left;
+}
+
+.types-card-image {
+    height: 60px;
+    width: 60px;
+    margin-right: 10px;
+}
+
+.types-card-heading {
+    color: #253263;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.types-card-para {
+    font-size: 12px;
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.types-heading {
+    color: #132d84;
+    font-size: 20px;
+    font-family: "Roboto";
+    margin-bottom: 15px;
+}
